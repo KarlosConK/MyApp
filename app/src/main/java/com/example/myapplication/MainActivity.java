@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
+//comentario desde git
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
         if (id == R.id.action_settings) {
             return true;
         }
-//toma comentariogithub
+//toma
         return super.onOptionsItemSelected(item);
     }
 }
